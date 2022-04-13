@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&display=swap');
+
+body {
+    background-color: azure;
+}
+
+h1,h2 {
+    color: rgb(3, 44, 70);
+}
+
+a {
+    color: maroon;
+    font-family: font-family: 'Oswald', sans-serif;
+}
+a:hover {
+    color: maroon;
+    font-family: font-family: 'Oswald', sans-serif;
+}
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: rgb(22, 96, 104);
+}
+
+#finalScore {
+    font-family: font-family: font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
